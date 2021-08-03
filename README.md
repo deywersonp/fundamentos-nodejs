@@ -22,7 +22,7 @@
 
 ## 💻 Project
 
-CourseAPI is a developed API Used to register and manage courses. This was the first application developed during the first chapter of the NodeJS track from IGNITE (Rocketseat Career Acceleration Program).
+CourseAPI is a developed API used to register and manage courses. This was the first application developed during the first chapter of the NodeJS track from IGNITE (Rocketseat Career Acceleration Program).
 
 <br><br>
 
@@ -50,7 +50,7 @@ If you want run this code, you can start cloning the repository using HTTP or SS
 - Type `git clone`
 - Insert the HTTP or SSH key (on windows, shift + insert to paste on gitBash)
 - You can find this HTTP or SSH Key by clicking on `Code` on the top right in this repository
-![image](https://user-images.githubusercontent.com/79553681/128063767-d4690dd3-d777-43e4-b416-f4d187e7b5b7.png)
+![image](https://user-images.githubusercontent.com/79553681/128065145-d51e419e-d24b-4a8e-a9ca-12e7012ab3e3.png)
 
 
 - Once cloned you can open the project in your IDE and enter the codes below in the IDE terminal
